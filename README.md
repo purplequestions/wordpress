@@ -92,4 +92,4 @@ That's it, you can now checkout your application at:
 You'll be prompted to set an admin password and name your WordPress site the first time you visit this
 page.
 
-[template]: https://hub.openshift.com/quickstarts/1-wordpress-4
+[template]: https://hub.openshift.com/quickstarts/1-wordpress-4# wordpress
